@@ -1,6 +1,6 @@
 {
   "name": "sociallogin",
-  "version": "0.0.14",
+  "version": "0.0.15",
   "description": "Login usng several social providers",
   "main": "./lib/sociallogin.js",
   "dependencies": {
@@ -28,6 +28,10 @@
     "passport-windowslive": "1.0.1",
     "passport-wordpress": "0.0.3",
     "passport-yahoo-oauth": "0.1.2"
+  },
+  "repository": {
+        "type": "git",
+        "url": "https://github.com/boldrocket/sociallogin.git"
   },
   "devDependencies": {},
   "keywords": [

@@ -2,28 +2,28 @@
 
 Social login is a library that integrates several passportJS auth provider libraries in a unified way. You just need to provide your specific credentials for each provider and your website url.
 
-List of available providers
-* facebook
-* twitter
-* github
-* google
-* linkedin
-* amazon
-* bitbucket
-* dropbox
-* evernote
-* fitbit
-* flickr
-* foursquare
-* instagram
-* meetup
-* spotify
-* trello
-* tumblr
-* vimeo
-* windowslive
-* wordpress
-* yahoo
+List of available providers and urls to create authentication keys
+* facebook    https://developers.facebook.com/
+* twitter     https://apps.twitter.com/
+* github      https://github.com/settings/applications
+* google      https://console.developers.google.com/project
+* linkedin    https://www.linkedin.com/secure/developer
+* amazon      http://login.amazon.com/manageApps
+* bitbucket   https://bitbucket.org/account/user/USERNAME/api
+* dropbox     https://www.dropbox.com/developers/apps
+* evernote    https://dev.evernote.com/key.php
+* fitbit      https://dev.fitbit.com/apps
+* flickr      https://www.flickr.com/services/apps/
+* foursquare  https://foursquare.com/developers/apps
+* instagram   http://instagram.com/developer/clients/manage/
+* meetup      https://secure.meetup.com/meetup_api/oauth_consumers/
+* spotify     https://developer.spotify.com/my-applications/#!/applications
+* trello      https://trello.com/1/appKey/generate
+* tumblr      https://www.tumblr.com/oauth/apps
+* vimeo       https://developer.vimeo.com/apps
+* windowslive https://account.live.com/developers/applications/index
+* wordpress   https://developer.wordpress.com/apps/
+* yahoo       https://developer.apps.yahoo.com/projects
 
 ## install ##
 `npm install sociallogin`
